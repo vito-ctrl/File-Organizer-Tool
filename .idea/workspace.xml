@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="516e3b6c-2205-46e4-afe3-c904c8a303ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coffe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu-24.04/home/vito/java_projects/File-Organizer-Tool",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-24.04/home/vito/java_projects/File-Organizer-Tool/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +55,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vito\java_projects\File-Organizer-Tool\src" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="516e3b6c-2205-46e4-afe3-c904c8a303ab" name="Changes" comment="" />
@@ -62,7 +69,7 @@
       <updated>1779054771058</updated>
       <workItem from="1779054771773" duration="860000" />
       <workItem from="1779056548506" duration="514000" />
-      <workItem from="1779057099361" duration="3062000" />
+      <workItem from="1779057099361" duration="4109000" />
     </task>
     <servers />
   </component>
